@@ -1,18 +1,14 @@
 ---
-title: "PortFolio"
-excerpt: "About Me"
+title: "Click Here"
+excerpt: "Wanna See My portfolio"
 collection: portfolio
 ---
 
-Hi ![Images Handshake](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pranjal Dubey{
-    :.align-top
-}
+Hi ![Images Handshake](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Pranjal Dubey
 =====================================================================================================================================
 
 
-![Image Penguin](https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=790b7611qx5autrpi0jfl4vqjxveblfqtlehofr1k3pww7gy&ep=v1_gifs_search&rid=giphy.gif&ct=g){
-    :align-top padding-top:120px
-}
+![Image Penguin](https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=790b7611qx5autrpi0jfl4vqjxveblfqtlehofr1k3pww7gy&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 
 ## About
