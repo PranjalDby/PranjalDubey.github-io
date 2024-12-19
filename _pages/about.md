@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "👋 Hello There, I'm Pranjal"
+title: "😃 Hello There, I'm Pranjal"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-👨‍🎓 I'm second year Student at Lovely Professional University, Phagwara Punjab.
+👨‍🎓 I'm a second-year student at Lovely Professional University, Phagwara, Punjab.
 
-😊 I'm interested in Machine Learning specially in field of Computer Vision and LLms.
+😊 My interests lie in Machine Learning, particularly in the fields of Computer Vision and Large Language Models (LLMs).
 
-🤖 I'm also passionate about learning new technologies and reading research papers.
+🤖 I am passionate about exploring new technologies and delving into research papers to stay updated with the latest advancements.
